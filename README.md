@@ -4,11 +4,8 @@
 
 ### 📈 Status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aki-0517&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=aki-0517&count_private=true&show_icons=true&show_icons=true&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aki-0517&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aki-0517&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aki-0517&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aki-0517&theme=onedark&utcOffset=9)
 
 ---
 
