@@ -8,9 +8,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aki-0517&theme=onedark)
 
 ---
-
-### 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aki-0517&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
